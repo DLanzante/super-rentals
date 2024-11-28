@@ -1,6 +1,6 @@
 /* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
 
-@import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
+@import url("https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic");
 
 /**
  * Base Elements
@@ -23,8 +23,8 @@ div,
 span,
 a,
 button {
-  font-family: "Lato", "Open Sans", "Helvetica Neue", "Segoe UI", Helvetica,
-    Arial, sans-serif;
+  font-family: Lato, "Open Sans", "Helvetica Neue", "Segoe UI", Helvetica, Arial,
+    sans-serif;
   line-height: 1.5;
 }
 
@@ -33,7 +33,8 @@ body {
 }
 
 .tomster {
-  background: url(../assets/images/teaching-tomster.png);
+  background: url("../assets/images/teaching-tomster.png");
+
   /* ...snip... */
 }
 

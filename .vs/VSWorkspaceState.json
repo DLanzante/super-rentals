@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\services",
+    "\\app\\templates",
+    "\\app\\utils",
+    "\\public\\api",
+    "\\public\\api\\rentals",
+    "\\tests",
+    "\\tests\\acceptance",
+    "\\tests\\integration",
+    "\\tests\\integration\\components",
+    "\\tests\\integration\\components\\rental"
+  ],
+  "SelectedNode": "\\tests\\acceptance\\super-rentals-test.js",
+  "PreviewInSolutionExplorer": false
+}
