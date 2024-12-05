@@ -2,17 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\services",
-    "\\app\\templates",
-    "\\app\\utils",
-    "\\public\\api",
-    "\\public\\api\\rentals",
+    "\\app\\components",
+    "\\app\\components\\rental",
+    "\\app\\routes",
     "\\tests",
     "\\tests\\acceptance",
     "\\tests\\integration",
     "\\tests\\integration\\components",
     "\\tests\\integration\\components\\rental"
   ],
-  "SelectedNode": "\\tests\\acceptance\\super-rentals-test.js",
+  "SelectedNode": "\\app\\components\\rentals.hbs",
   "PreviewInSolutionExplorer": false
 }
