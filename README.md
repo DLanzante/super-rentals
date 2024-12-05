@@ -45,7 +45,9 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+1. All it take to deploy my app like it state above clone my repo and run the following command:
+   ```bash
+   npm start && ember t -s
 
 ## Further Reading / Useful Links
 
